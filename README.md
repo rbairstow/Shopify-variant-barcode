@@ -65,3 +65,6 @@ With this:
     <p class="product__add-msg add-to-cart-msg"></p>
 {% endif %}
 ```
+
+3. When done open the product within Shopifys main admin and scroll down to the Variants section
+4. Add **call** into the barcode field for each variant where you would prefer "Call us" inplace of the Add to Cart button + Save
